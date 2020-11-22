@@ -1,0 +1,34 @@
+[
+  {
+    "name": "WEB",
+    "url": "https://nest.land/package/std",
+    "slug": "web",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 161
+  },
+  {
+    "name": "API",
+    "url": "https://x.nest.land/api/package/std",
+    "slug": "api",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 81
+  },
+  {
+    "name": "CDN",
+    "url": "https://x.nest.land/std@0.75.0/flags/mod.ts",
+    "slug": "cdn",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1007
+  },
+  {
+    "name": "Arweave",
+    "url": "https://y2dkomn4abqiffiuvhrfhuqynbu4det55c3uipi4gyvvntorwfoa.arweave.net/xoanMbwAYIKVFKniU9IYaGnBkn3ot0Q9HDYrVs3RsVw/flags/mod.ts",
+    "slug": "arweave",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 188
+  }
+]
