@@ -1,19 +1,19 @@
 [
   {
     "name": "WEB",
-    "url": "https://nest.land/package/",
+    "url": "https://nest.land/package/std/files/flags/mod.ts",
     "slug": "web",
     "status": "up",
     "uptime": "100.00%",
-    "time": 142
+    "time": 146
   },
   {
     "name": "API",
-    "url": "https://x.nest.land/api/package/std",
+    "url": "https://x.nest.land/api/package/std/0.75.0",
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 164
+    "time": 161
   },
   {
     "name": "CDN",
@@ -29,6 +29,6 @@
     "slug": "arweave",
     "status": "up",
     "uptime": "100.00%",
-    "time": 191
+    "time": 190
   }
 ]
