@@ -3,11 +3,11 @@ repo: status
 
 sites:
   - name: WEB
-    url: https://nest.land/package/
+    url: https://nest.land/package/std/files/flags/mod.ts
     maxResponseTime: 500
 
   - name: API
-    url: https://x.nest.land/api/package/std
+    url: https://x.nest.land/api/package/std/0.75.0
     maxResponseTime: 500
 
   - name: CDN
@@ -26,7 +26,7 @@ notifications:
 status-website:
   cname: status.nest.land
   logoUrl: https://nest.land/images/nest.land/favicon_light.svg
-  name: Status Page
+  name: Nest Status Page
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
