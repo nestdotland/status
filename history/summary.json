@@ -5,7 +5,7 @@
     "slug": "web",
     "status": "up",
     "uptime": "100.00%",
-    "time": 153
+    "time": 150
   },
   {
     "name": "API",
@@ -13,7 +13,7 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 171
+    "time": 168
   },
   {
     "name": "CDN",
@@ -21,7 +21,7 @@
     "slug": "cdn",
     "status": "up",
     "uptime": "100.00%",
-    "time": 982
+    "time": 978
   },
   {
     "name": "Arweave",
@@ -29,6 +29,6 @@
     "slug": "arweave",
     "status": "up",
     "uptime": "100.00%",
-    "time": 193
+    "time": 192
   }
 ]
