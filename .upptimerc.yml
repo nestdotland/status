@@ -3,16 +3,20 @@ repo: status
 
 sites:
   - name: WEB
-    url: https://nest.land/package/std
+    url: https://nest.land/package/
+    maxResponseTime: 500
 
   - name: API
     url: https://x.nest.land/api/package/std
+    maxResponseTime: 500
 
   - name: CDN
     url: https://x.nest.land/std@0.75.0/flags/mod.ts
+    maxResponseTime: 1500
 
   - name: Arweave
     url: https://y2dkomn4abqiffiuvhrfhuqynbu4det55c3uipi4gyvvntorwfoa.arweave.net/xoanMbwAYIKVFKniU9IYaGnBkn3ot0Q9HDYrVs3RsVw/flags/mod.ts
+    maxResponseTime: 500
 
 assignees: ["nestdotland/core"]
 
@@ -26,3 +30,12 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  graphs: "*/10 * * * *"
+  responseTime: "*/10 * * * *"
+  summary: "*/10 * * * *"
+  updateTemplate: "0 0 * * *"
+  staticSite: "0 0 * * *"
+  updates: "0 0 * * *"
