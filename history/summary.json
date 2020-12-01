@@ -11,9 +11,9 @@
     "name": "API",
     "url": "https://x.nest.land/api/package/std/0.75.0",
     "slug": "api",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 205
+    "time": 203
   },
   {
     "name": "CDN",
