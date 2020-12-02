@@ -21,7 +21,7 @@
     "slug": "cdn",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1032
+    "time": 1029
   },
   {
     "name": "Arweave",
@@ -29,6 +29,6 @@
     "slug": "arweave",
     "status": "up",
     "uptime": "100.00%",
-    "time": 196
+    "time": 195
   }
 ]
