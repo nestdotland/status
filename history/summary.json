@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 179,
-    "timeWeek": 174,
-    "timeMonth": 173,
-    "timeYear": 173
+    "time": 174,
+    "timeDay": 181,
+    "timeWeek": 175,
+    "timeMonth": 174,
+    "timeYear": 174
   },
   {
     "name": "API",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
+    "time": 211,
     "timeDay": 214,
-    "timeWeek": 212,
-    "timeMonth": 209,
-    "timeYear": 209
+    "timeWeek": 214,
+    "timeMonth": 211,
+    "timeYear": 211
   },
   {
     "name": "CDN",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1027,
-    "timeDay": 1052,
-    "timeWeek": 1025,
-    "timeMonth": 1027,
-    "timeYear": 1027
+    "time": 1029,
+    "timeDay": 1049,
+    "timeWeek": 1026,
+    "timeMonth": 1029,
+    "timeYear": 1029
   },
   {
     "name": "Arweave",
