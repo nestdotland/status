@@ -10,7 +10,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 124,
+    "timeDay": 121,
     "timeWeek": 157,
     "timeMonth": 157,
     "timeYear": 157
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 136,
+    "time": 187,
+    "timeDay": 132,
     "timeWeek": 189,
-    "timeMonth": 188,
-    "timeYear": 188
+    "timeMonth": 187,
+    "timeYear": 187
   },
   {
     "name": "CDN",
@@ -42,8 +42,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1004,
-    "timeDay": 942,
-    "timeWeek": 1003,
+    "timeDay": 941,
+    "timeWeek": 1002,
     "timeMonth": 1004,
     "timeYear": 1004
   },
@@ -59,7 +59,7 @@
     "uptimeYear": "100.00%",
     "time": 196,
     "timeDay": 180,
-    "timeWeek": 197,
+    "timeWeek": 196,
     "timeMonth": 196,
     "timeYear": 196
   }
