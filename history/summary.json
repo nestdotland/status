@@ -10,8 +10,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 112,
-    "timeWeek": 155,
+    "timeDay": 115,
+    "timeWeek": 156,
     "timeMonth": 155,
     "timeYear": 155
   },
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1001,
-    "timeDay": 935,
+    "time": 1000,
+    "timeDay": 932,
     "timeWeek": 999,
-    "timeMonth": 1001,
-    "timeYear": 1001
+    "timeMonth": 1000,
+    "timeYear": 1000
   },
   {
     "name": "Arweave",
@@ -58,7 +58,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 180,
+    "timeDay": 175,
     "timeWeek": 195,
     "timeMonth": 195,
     "timeYear": 195
