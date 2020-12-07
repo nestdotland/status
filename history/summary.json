@@ -2,6 +2,7 @@
   {
     "name": "WEB",
     "url": "https://nest.land/package/std/files/flags/mod.ts",
+    "icon": "https://favicons.githubusercontent.com/nest.land",
     "slug": "web",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 127,
-    "timeWeek": 152,
-    "timeMonth": 152,
-    "timeYear": 152
+    "time": 153,
+    "timeDay": 140,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 153,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
     "url": "https://x.nest.land/api/package/std/0.75.0",
+    "icon": "https://favicons.githubusercontent.com/x.nest.land",
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 133,
+    "time": 177,
+    "timeDay": 132,
     "timeWeek": 179,
-    "timeMonth": 178,
-    "timeYear": 178
+    "timeMonth": 177,
+    "timeYear": 177,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
     "url": "https://x.nest.land/std@0.75.0/flags/mod.ts",
+    "icon": "https://favicons.githubusercontent.com/x.nest.land",
     "slug": "cdn",
     "status": "up",
     "uptime": "100.00%",
@@ -42,14 +47,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 983,
-    "timeDay": 865,
-    "timeWeek": 981,
+    "timeDay": 863,
+    "timeWeek": 980,
     "timeMonth": 983,
-    "timeYear": 983
+    "timeYear": 983,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Arweave",
     "url": "https://y2dkomn4abqiffiuvhrfhuqynbu4det55c3uipi4gyvvntorwfoa.arweave.net/xoanMbwAYIKVFKniU9IYaGnBkn3ot0Q9HDYrVs3RsVw/flags/mod.ts",
+    "icon": "https://favicons.githubusercontent.com/y2dkomn4abqiffiuvhrfhuqynbu4det55c3uipi4gyvvntorwfoa.arweave.net",
     "slug": "arweave",
     "status": "up",
     "uptime": "100.00%",
@@ -58,9 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 179,
+    "timeDay": 180,
     "timeWeek": 193,
     "timeMonth": 193,
-    "timeYear": 193
+    "timeYear": 193,
+    "dailyMinutesDown": {}
   }
 ]
