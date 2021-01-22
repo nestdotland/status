@@ -27,7 +27,7 @@ status-website:
   cname: status.nest.land
   name: Nest Status Page
   logoUrl: https://nest.land/images/nest.land/favicon_light.svg
-  css: "@import url('https://raw.githubusercontent.com/nestdotland/assets/master/css/status.css');"
+  theme: "https://raw.githubusercontent.com/nestdotland/assets/master/css/status.css"
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
