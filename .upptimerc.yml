@@ -27,12 +27,10 @@ status-website:
   cname: status.nest.land
   name: Nest Status Page
   logoUrl: https://nest.land/images/nest.land/favicon_light.svg
+  themeUrl: /theme.css
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  links:
-    - rel: stylesheet
-      href: theme.css
 
 workflowSchedule:
   uptime: "*/5 * * * *"
