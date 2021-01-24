@@ -32,7 +32,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   links:
     - rel: stylesheet
-      href: https://raw.githubusercontent.com/nestdotland/assets/master/css/status.css
+      href: theme.css
 
 workflowSchedule:
   uptime: "*/5 * * * *"
