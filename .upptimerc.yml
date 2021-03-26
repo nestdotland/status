@@ -4,11 +4,11 @@ repo: status
 sites:
   - name: WEB
     url: https://nest.land/package/std/files/flags/mod.ts
-    maxResponseTime: 500
+    maxResponseTime: 300
 
   - name: API
     url: https://x.nest.land/api/package/std/0.75.0
-    maxResponseTime: 500
+    maxResponseTime: 300
 
   - name: CDN
     url: https://x.nest.land/std@0.75.0/flags/mod.ts
@@ -16,7 +16,7 @@ sites:
 
   - name: Arweave
     url: https://y2dkomn4abqiffiuvhrfhuqynbu4det55c3uipi4gyvvntorwfoa.arweave.net/xoanMbwAYIKVFKniU9IYaGnBkn3ot0Q9HDYrVs3RsVw/flags/mod.ts
-    maxResponseTime: 500
+    maxResponseTime: 800
 
 assignees: ["nestdotland/core"]
 
@@ -27,7 +27,7 @@ status-website:
   cname: status.nest.land
   name: Nest Status Page
   logoUrl: https://nest.land/images/nest.land/favicon_light.svg
-#   themeUrl: /theme.css
+# themeUrl: /theme.css
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
