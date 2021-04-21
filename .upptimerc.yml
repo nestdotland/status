@@ -33,7 +33,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  uptime: "*/15 * * * *"
+  uptime: "*/30 * * * *"
   graphs: "0 * * * *"
   responseTime: "0 * * * *"
   summary: "0 * * * *"
