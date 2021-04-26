@@ -27,7 +27,7 @@ status-website:
   cname: status.nest.land
   name: Nest Status Page
   logoUrl: https://nest.land/images/nest.land/favicon_light.svg
-# themeUrl: /theme.css
+  themeUrl: https://nest-status-src.vercel.app/assets/theme.css
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
