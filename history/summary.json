@@ -12,7 +12,7 @@
     "uptimeYear": "89.14%",
     "time": 165,
     "timeDay": 107,
-    "timeWeek": 132,
+    "timeWeek": 129,
     "timeMonth": 146,
     "timeYear": 165,
     "dailyMinutesDown": {
@@ -51,7 +51,7 @@
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 127,
-    "timeWeek": 96,
+    "timeWeek": 95,
     "timeMonth": 138,
     "timeYear": 154,
     "dailyMinutesDown": {}
@@ -61,18 +61,20 @@
     "url": "https://x.nest.land/std@0.75.0/flags/mod.ts",
     "icon": "https://favicons.githubusercontent.com/x.nest.land",
     "slug": "cdn",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1125,
-    "timeDay": 847,
-    "timeWeek": 1116,
-    "timeMonth": 1069,
+    "timeDay": 1242,
+    "timeWeek": 1183,
+    "timeMonth": 1072,
     "timeYear": 1125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-05": 0
+    }
   },
   {
     "name": "Arweave",
@@ -87,7 +89,7 @@
     "uptimeYear": "99.97%",
     "time": 318,
     "timeDay": 3157,
-    "timeWeek": 871,
+    "timeWeek": 893,
     "timeMonth": 273,
     "timeYear": 318,
     "dailyMinutesDown": {
