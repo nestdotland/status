@@ -13,7 +13,7 @@
     "time": 165,
     "timeDay": 106,
     "timeWeek": 133,
-    "timeMonth": 147,
+    "timeMonth": 146,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2021-04-26": 397,
@@ -70,7 +70,7 @@
     "time": 1125,
     "timeDay": 1261,
     "timeWeek": 1125,
-    "timeMonth": 1064,
+    "timeMonth": 1066,
     "timeYear": 1125,
     "dailyMinutesDown": {}
   },
@@ -79,19 +79,19 @@
     "url": "https://y2dkomn4abqiffiuvhrfhuqynbu4det55c3uipi4gyvvntorwfoa.arweave.net/xoanMbwAYIKVFKniU9IYaGnBkn3ot0Q9HDYrVs3RsVw/flags/mod.ts",
     "icon": "https://favicons.githubusercontent.com/y2dkomn4abqiffiuvhrfhuqynbu4det55c3uipi4gyvvntorwfoa.arweave.net",
     "slug": "arweave",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
     "time": 317,
-    "timeDay": 3766,
-    "timeWeek": 845,
+    "timeDay": 3180,
+    "timeWeek": 825,
     "timeMonth": 268,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2021-05-05": 1
+      "2021-05-05": 58
     }
   }
 ]
