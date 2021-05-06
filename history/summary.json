@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/nest.land",
     "slug": "web",
     "status": "up",
-    "uptime": "89.19%",
+    "uptime": "89.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "89.19%",
+    "uptimeYear": "89.21%",
     "time": 165,
-    "timeDay": 131,
-    "timeWeek": 132,
+    "timeDay": 169,
+    "timeWeek": 136,
     "timeMonth": 147,
     "timeYear": 165,
     "dailyMinutesDown": {
@@ -51,7 +51,7 @@
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 83,
-    "timeWeek": 94,
+    "timeWeek": 95,
     "timeMonth": 138,
     "timeYear": 154,
     "dailyMinutesDown": {}
@@ -68,9 +68,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 1125,
-    "timeDay": 1282,
-    "timeWeek": 1168,
-    "timeMonth": 1074,
+    "timeDay": 1285,
+    "timeWeek": 1145,
+    "timeMonth": 1073,
     "timeYear": 1125,
     "dailyMinutesDown": {
       "2021-05-05": 55
@@ -88,9 +88,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
     "time": 318,
-    "timeDay": 212,
-    "timeWeek": 892,
-    "timeMonth": 273,
+    "timeDay": 222,
+    "timeWeek": 891,
+    "timeMonth": 274,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2021-05-05": 78
