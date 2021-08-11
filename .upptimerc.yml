@@ -14,6 +14,14 @@ sites:
     url: https://x.nest.land/std@0.75.0/flags/mod.ts
     maxResponseTime: 1500
 
+  - name: API (Staging)
+    url: https://api-dev.nest.land/imports/x/denoland/std/0.75.0
+    maxResponseTime: 100
+
+  - name: CDN (Staging)
+    url: http://cdn-dev.nest.land/denoland/std@0.75.0/flags/mod.ts
+    maxResponseTime: 100
+
   - name: Arweave
     url: https://y2dkomn4abqiffiuvhrfhuqynbu4det55c3uipi4gyvvntorwfoa.arweave.net/xoanMbwAYIKVFKniU9IYaGnBkn3ot0Q9HDYrVs3RsVw/flags/mod.ts
     maxResponseTime: 800
