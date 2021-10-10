@@ -1,7 +1,7 @@
 url: https://api-dev.nest.land/imports/x/denoland/std/0.75.0
-status: up
+status: degraded
 code: 200
-responseTime: 16
-lastUpdated: 2021-10-10T02:33:04.899Z
+responseTime: 2326
+lastUpdated: 2021-10-10T06:00:33.191Z
 startTime: Wed Aug 11 2021 18:10:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
