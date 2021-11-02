@@ -1,3 +1,5 @@
+> ### Switched to [Checkly](https://www.checklyhq.com/?utm_source=nestland)
+
 # [📈 Live Status](https://status.nest.land): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [nest.land](https://nest.land), powered by [Upptime](https://github.com/upptime/upptime).
